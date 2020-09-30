@@ -23,3 +23,6 @@ Here are some ideas to get you started:
 [![LINKEDIN](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/domenique-silva/)
 [![DISCORD](https://img.shields.io/badge/discord-black?style=for-the-badge&logo=discord)](https://discordapp.com/users/6727)
 [![DEV.TO](https://img.shields.io/badge/DEV.TO-black?style=for-the-badge&logo=dev.to)](https://dev.to/domss)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
