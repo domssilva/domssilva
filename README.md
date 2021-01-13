@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 - :it: based in Italy
-- 🌱 I’m currently learning web development
-- 👯 I’m looking to collaborate on projects
+- 🔭 I’m currently working with web development
+- 🌱 I’m currently learning javascript, react, nodejs, firebase
 - 📫 How to reach me:
 
 [![LINKEDIN](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/domenique-silva/)
