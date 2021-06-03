@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 [![DISCORD](https://img.shields.io/badge/discord-black?style=for-the-badge&logo=discord)](https://discordapp.com/users/6727)
 <!--[![DEV.TO](https://img.shields.io/badge/DEV.TO-black?style=for-the-badge&logo=dev.to)](https://dev.to/domss)-->
 
-<!--START_SECTION:waka-->
+<!--START_SECTION:waka
 [![domssilva's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=domssilva&langs_count=5&custom_title=Weekly%20Stats&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-<!--END_SECTION:waka-->
+END_SECTION:waka-->
 
 - ⚡ I'm also into web security. Check out my study notes!
 
