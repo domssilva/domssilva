@@ -15,12 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- :it: based in Italy
-- 🔭 I’m currently working with web development
-- 📫 How to reach me:
+- :it: Based in Italy
+- 🔭 Currently working with javascript and typescript
+- 🌱 My favorite topics are security and performance
+- ⚡ I'm always open to learn new tech
+- 📫 Feel free to hmu on Linkedin
 
 [![LINKEDIN](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/domssilva/)
-[![DISCORD](https://img.shields.io/badge/discord-black?style=for-the-badge&logo=discord)](https://discordapp.com/users/6727)
+<!--[![DISCORD](https://img.shields.io/badge/discord-black?style=for-the-badge&logo=discord)](https://discordapp.com/users/6727)-->
 <!--[![DEV.TO](https://img.shields.io/badge/DEV.TO-black?style=for-the-badge&logo=dev.to)](https://dev.to/domss)-->
 
 <!--START_SECTION:waka
