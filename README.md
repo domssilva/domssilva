@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 - :it: Based in Italy
 - 🔭 Currently working with javascript and typescript
-- 🌱 Studying Go and web security
 - 📫 Feel free to hmu on Linkedin
 
 [![LINKEDIN](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/domssilva/)
