@@ -1,5 +1,12 @@
 ### Ciao, I'm Domenique 👋
 
+I'm a software engineer with a background in security.  
+Currently pivoting back into software engineering with a focus on Python, backend APIs, and secure cloud development.
+
+- 🛠️ Tech I’m working with: Linux, Python, Bash, Flask, FastAPI, Docker, PostgreSQL, AWS
+- 🔭 Tech I’m Excited to Learn More About: Go, Kubernetes 
+
+
 <!--
 **domssilva/domssilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,21 +20,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
-- :it: Based in Italy
-- 🔭 Currently working as a Security Engineer
-- 📫 Feel free to hmu on Linkedin
-
-[![LINKEDIN](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/domssilva/)
-<!--[![DISCORD](https://img.shields.io/badge/discord-black?style=for-the-badge&logo=discord)](https://discordapp.com/users/6727)-->
-<!--[![DEV.TO](https://img.shields.io/badge/DEV.TO-black?style=for-the-badge&logo=dev.to)](https://dev.to/domss)-->
-
-<!--START_SECTION:waka
-[![domssilva's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=domssilva&langs_count=5&custom_title=Weekly%20Stats&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-END_SECTION:waka
-
-- ⚡ I'm also into web security. Check out my study notes!
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=domssilva&theme=chartreuse-dark&repo=vulnsearch)](https://github.com/domssilva/vulnsearch)
 -->
