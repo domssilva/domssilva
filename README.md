@@ -1,6 +1,6 @@
 ### Ciao, I'm Domenique 👋
 
-I'm a software engineer with a background in security.  
+I'm a security engineer with a background in web development.  
 Currently pivoting back into software engineering with a focus on Python, backend APIs, and secure cloud development.
 
 - 🛠️ Tech I’m working with: Linux, Python, Bash, Flask, FastAPI, Docker, PostgreSQL, AWS
